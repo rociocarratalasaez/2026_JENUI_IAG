@@ -8,8 +8,12 @@ Este trabajo ha sido posible gracias a la financiación recibida en el Proyecto 
 ## Contacto (autores del trabajo)
 
 Esther Durá (esther.dura@uv.es)
+
 Rocío Carratalá-Sáez (rocio.carratala@uv.es)
+
 Wladimiro Díaz-Villanueva (wladimiro.diaz@uv.es)
+
 Juan Domingo (juan.domingo@uv.es)
+
 
 Departamento de Informática, Universitat de València, Burjassot, Spain
